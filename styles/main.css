@@ -50,9 +50,12 @@ main {
 }
 main h1 {
   font-size: 150%;
+  text-indent: 40px;
   padding: 0.3em 0;
-  border-top: 3px solid #931420;
-  border-bottom: 3px solid #931420;
+  border: 3px double #931420;
+  border-radius: 9px;
+  background-color: #fff;
+  box-shadow: 4px 4px;
 }
 main h2 {
   font-size: 130%;
